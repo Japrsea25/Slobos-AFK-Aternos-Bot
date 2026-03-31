@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "NilzEichhorst€#Gang,Gang(Bang)",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "JasperEU24-D4Da.aternos.me",
     "port": 27185,
-    "version": "",
+    "version": "26.1",
     "try-creative": false
   },
   "position": {
@@ -32,14 +32,14 @@
       "repeat-delay": 20,
       "messages": [
         "I'm a regular player/-/&€",
-        "I like Young Kiddos",
+        "I like Kiddos",
         "I like to play Minecraft! And Eat Pizza"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "auto-reconnect-delay": 120,
+    "max-reconnect-delay": 1200
   },
   "movement": {
     "enabled": true,
