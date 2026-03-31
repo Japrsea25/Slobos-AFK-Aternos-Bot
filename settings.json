@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Frudo121897NhA",
+    "username": "NilzEichhorst€#Gang,Gang(Bang)",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "JasperEU24-D4Da.aternos.me",
@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -3310,
+    "y": 98,
+    "z": 835
   },
   "utils": {
     "auto-auth": {
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 20,
       "messages": [
         "I'm a regular player/-/&€",
         "I like Young Kiddos",
